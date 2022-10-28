@@ -1,0 +1,4 @@
+Shakes the camera.
+
+Value 1: Intensity.
+Value 2: Duration.
